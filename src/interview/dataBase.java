@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 
-//richa is great
+//richa is great girl and beautiful
 public class dataBase {
 	
 	public static void main(String args[]) throws ClassNotFoundException, SQLException {
